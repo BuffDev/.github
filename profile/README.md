@@ -1,12 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Buff!
+## Em breve!
+O Buff é um aplicativo revolucionário de aprendizado de programação que conecta estudantes a mentores especializados. Oferecemos aulas práticas e realistas, abordando problemas do dia a dia de um desenvolvedor. Com uma plataforma flexível, recursos complementares e diferentes níveis de dificuldade, ajudamos os alunos a se destacarem na indústria. Junte-se a nós para acelerar seu progresso na programação. #Buff #aprendizagem #programação #desenvolvedor
