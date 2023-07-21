@@ -1,4 +1,4 @@
-[![linkedin](https://buff.dev/_next/image?url=%2Fimages%2Flogo.png&w=384&q=75)](https://buff.dev "Website")
+
 
 ## Em breve!
 
