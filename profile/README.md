@@ -13,7 +13,7 @@ O Buff é um aplicativo revolucionário de aprendizado de programação que cone
 - Interface intuitiva.
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=LinkeDin&logoColor=white)](https://www.linkedin.com/company/buffdev "Perfil LinkeDin")
-[![twitter](https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BuffDev_ "Perfil Twitter")
-[![twitter](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/buff.dev "Perfil Instagram")
+[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=LinkeDin&logoColor=white)](https://www.linkedin.com/company/buffdevbr "Perfil LinkeDin")
+[![twitter](https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/buffdevbr "Perfil Twitter")
+[![twitter](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/buffdevbr "Perfil Instagram")
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hello@buff.dev "Contato via e-mail")
