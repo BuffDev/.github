@@ -2,15 +2,19 @@
 
 ## Em breve!
 
-O Buff é um aplicativo revolucionário de aprendizado de programação que conecta estudantes a mentores especializados. Oferecemos aulas práticas e realistas, abordando problemas do dia a dia de um desenvolvedor. Com uma plataforma flexível, recursos complementares e diferentes níveis de dificuldade, ajudamos os alunos a se destacarem na indústria. Junte-se a nós para acelerar seu progresso na programação. #Buff #aprendizagem #programação #desenvolvedor
+O Buff! é um canal de conteúdo para quem trabalha com programação e tecnologia. Aqui você encontra:
 
-## Características
+Notícias e artigos sobre as últimas tendências da área
+Dicas e tutoriais para aprender novas habilidades
+Entrevistas com profissionais de destaque
+Histórias de sucesso de quem trabalha com tecnologia
+O Buff! é o seu ponto de referência para se manter atualizado sobre o mundo da programação e tecnologia. Seja você um iniciante ou um profissional experiente, aqui você encontrará conteúdo relevante para o seu desenvolvimento profissional.
 
-- Conexão com mentores especializados.
-- Foco na resolução de problemas reais.
-- Personalização do aprendizado.
-- Recursos complementares
-- Interface intuitiva.
+Acompanhe o Buff! no LinkedIn e fique por dentro de tudo o que acontece na área de programação e tecnologia.
+
+Acesse nosso site e confira todos os conteúdos disponíveis.
+
+#programação #tecnologia #buff #linkedin
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=LinkeDin&logoColor=white)](https://www.linkedin.com/company/buffdevbr "Perfil LinkeDin")
